@@ -1,0 +1,4 @@
+framework module SWCompression {
+  header "SWCompression-Swift.h"
+  requires objc
+}
